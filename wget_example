@@ -1,0 +1,4 @@
+wget http://someplace.com/data/WeatherStory.xml \
+     --user-agent="SpecialPlace.com"  --no-verbose  --quiet \
+     --output-document=/tmp/WeatherStory.xml
+     
